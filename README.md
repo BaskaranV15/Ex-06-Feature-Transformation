@@ -56,3 +56,16 @@ sm.qqplot(df['ModerateNegativeSkew_2'],fit=True,line='45')
 plt.show()
 ```
 ## OUTPUT
+![Screenshot 2023-05-15 114611](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/6b40fe2b-df4c-4c8d-a4eb-ac15073aa87c)
+![Screenshot 2023-05-15 114623](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/fa1e8147-fa3b-40e4-b344-7ecccb1d755c)
+![Screenshot 2023-05-15 114634](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/aae66c1e-0b09-4453-9c82-d37d10ce39f9)
+![Screenshot 2023-05-15 114642](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/4703d29e-1b96-4af8-b9ae-ae0960353018)
+![Screenshot 2023-05-15 114655](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/27217e62-62ac-49a2-9182-76aacf3f265c)
+![Screenshot 2023-05-15 114705](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/4963a43b-50e2-4445-bde9-f5f791857fbf)
+![Screenshot 2023-05-15 114713](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/657369fe-6f41-4e4b-bd09-c47073c6e442)
+![Screenshot 2023-05-15 114721](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/4f4e6050-4e46-4e71-b3bd-52de8c1d3143)
+![Screenshot 2023-05-15 114729](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/178ea12d-a116-48ec-abe2-64b713ea6afd)
+![Screenshot 2023-05-15 114737](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/837af8f8-4abd-4d9e-a531-0cd3657d65f5)
+![Screenshot 2023-05-15 114756](https://github.com/BaskaranV15/Ex-06-Feature-Transformation/assets/118703522/c649b121-fd02-40d7-bda7-45e72cb6d2f1)
+
+
